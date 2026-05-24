@@ -109,9 +109,6 @@ export default {
                         Have clicks/taps recorded from your microphone in the video.
                     </p>
                     <p>
-                        A Cheat Indicator must be present in the video.
-                    </p>
-                    <p>
                         The recording must show the previous attempt and the entire death animation, unless the completion is a first attempt.
                     </p>
                     <p>
