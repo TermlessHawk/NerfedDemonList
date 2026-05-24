@@ -2,11 +2,16 @@
     {
         "role": "owner",
         "name": "TermlessHawk",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@TermlessHawk"
     },
     {
         "role": "owner",
         "name": "TosterrGMD",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@tostergmd"
+    },
+    {
+        "role": "dev",
+        "name": "TermlessHawk",
+        "link": "https://www.youtube.com/@TermlessHawk"
     }
 ]
