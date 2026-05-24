@@ -115,6 +115,9 @@ export default {
                         Do not use bug routes.
                     </p>
                     <p>
+                        A Cheat Indicator is recommended.
+                    </p>
+                    <p>
                         If a list moderator is suspicious of your completion, they may ask for raw footage.
                     </p>
                     <p>
