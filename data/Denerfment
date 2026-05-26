@@ -1,0 +1,18 @@
+{
+    "id": 141257460,
+    "name": "Denerfment",
+    "author": "SZopsaRX",
+    "creators": ["SZopsaRX"],
+    "verifier": "SZopsaRX",
+    "verification": "https://youtu.be/T65900MyuRE", 
+    "percentToQualify": 75,
+    "password": "6/10",
+    "records": [
+         {
+            "user": "TosterrGMD",
+            "link": "https://youtu.be/ME-XEduvY0g", 
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
