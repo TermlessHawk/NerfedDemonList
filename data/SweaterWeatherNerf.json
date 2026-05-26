@@ -8,5 +8,11 @@
     "percentToQualify": 70,
     "password": "No Password",
     "records": [
+        {
+            "user": "Michciu Dev",
+            "link": "https://www.youtube.com/watch?v=d25ZBj0e9fM", 
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
