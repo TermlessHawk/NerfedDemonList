@@ -12,7 +12,13 @@
             "user": "Michciu Dev",
             "link": "https://youtu.be/IxBDkkmvn5o", 
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "TosterrGMD",
+            "link": "https://youtu.be/EaQQt1nU4Ls", 
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
