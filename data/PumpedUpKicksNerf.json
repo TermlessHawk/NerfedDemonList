@@ -8,5 +8,12 @@
     "percentToQualify": 81,
     "password": "2/10",
     "records": [
+                 {
+            "user": "TosterrGMD",
+            "link": "https://youtu.be/SvyaiHdysjo", 
+            "percent": 97,
+            "hz": 144
+        }
+
     ]
 }
