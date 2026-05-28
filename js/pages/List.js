@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Ruleset</h3>
                     <p>
-                        Achieved the record without using hacks(including physics bypass, however FPS bypass is allowed up to 360 FPS).
+                        Achieved the record without using hacks(including physics bypass, however FPS bypass is allowed up to 540 FPS).
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - ULDM copies aren't allowed.
