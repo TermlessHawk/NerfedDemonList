@@ -19,12 +19,7 @@
             "link": "https://youtu.be/36T8sg5ukDM?si=NrjlK5Qpu5Hh51KZ", 
             "percent": 100,
             "hz": 144
-        },
-        {
-            "user": "TermlessHawk",
-            "link": "https://youtu.be/ejgGUrTgs2o", 
-            "percent": 100,
-            "hz": 120
+        }
         },
         {
             "user": "[CIONGAR] Minion",
@@ -37,6 +32,11 @@
             "link": "https://youtu.be/BysXkW8S-54", 
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "TermlessHawk",
+            "link": "https://youtu.be/ejgGUrTgs2o", 
+            "percent": 100,
+            "hz": 120
     ]
 }
