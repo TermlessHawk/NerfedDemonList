@@ -27,16 +27,16 @@
             "hz": 180
         },
         {
-            "user": "aaixu",
-            "link": "https://youtu.be/BysXkW8S-54", 
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "TermlessHawk",
             "link": "https://youtu.be/ejgGUrTgs2o", 
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "aaixu",
+            "link": "https://youtu.be/BysXkW8S-54", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
