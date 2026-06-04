@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=pJlEbNk-aPc", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "matty",
+            "link": "https://youtu.be/vRqCAY62OuI", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
