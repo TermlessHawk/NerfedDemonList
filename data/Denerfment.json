@@ -55,6 +55,12 @@
             "link": "https://youtu.be/TWeKAWPVKng", 
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "Yoink",
+            "link": "https://youtu.be/IhsX86wG80o", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
