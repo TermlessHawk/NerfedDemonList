@@ -31,6 +31,12 @@
             "link": "https://youtu.be/54hj0LSXa9A", 
             "percent": 100,
             "hz": 75
+        }, 
+        {
+            "user": "Jumanji",
+            "link": "https://www.youtube.com/watch?v=vpOBAr4FlDE", 
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
