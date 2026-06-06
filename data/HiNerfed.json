@@ -6,7 +6,7 @@
     "verifier": "[CIONGAR] Tosterr",
     "verification": "https://youtu.be/P91nWjriy0k",
     "percentToQualify": 85,
-    "password": "4.67/10",
+    "password": "5.75/10",
     "records": [
                    {
             "user": "Msidhsj",
@@ -19,6 +19,12 @@
             "link": "https://youtu.be/ejgGUrTgs2o", 
             "percent": 100,
             "hz": 120
+        }, 
+        {
+            "user": "janeXz602",
+            "link": "https://www.youtube.com/watch?v=DKPCSJLCJu4", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
