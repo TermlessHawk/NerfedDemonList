@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=GP_bQxgDiwI", 
             "percent": 100,
             "hz": 120
+        }, 
+        {
+            "user": "caspa",
+            "link": "https://youtu.be/u3_GKxuQCFs", 
+            "percent": 100,
+            "hz": 200
         }
     ]
 }
