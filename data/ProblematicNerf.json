@@ -8,5 +8,17 @@
     "percentToQualify": 85,
     "password": "8/10",
     "records": [
+         {
+            "user": "Jumanji",
+            "link": "https://www.youtube.com/watch?v=3YfOm8RfDFk", 
+            "percent": 100,
+            "hz": 120
+        },
+                 {
+            "user": "DefNotDaniel",
+            "link": "https://youtu.be/TdHW__SYB3Q", 
+            "percent": 100,
+            "hz": 165
+                 }
     ]
 }
