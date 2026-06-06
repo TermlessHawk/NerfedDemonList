@@ -6,7 +6,7 @@
     "verifier": "Msidhsj",
     "verification": "https://www.youtube.com/watch?v=edeQ0CXIhok",
     "percentToQualify": 84,
-    "password": "7/10",
+    "password": "6/10",
     "records": [
           {
             "user": "SZopsaRX",
@@ -43,6 +43,12 @@
             "link": "https://youtu.be/VYoJrhl4yLo", 
             "percent": 100,
             "hz": 164
+        },
+        {
+            "user": "ExsChestnut",
+            "link": "https://youtu.be/jTi2BXkj59E", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
