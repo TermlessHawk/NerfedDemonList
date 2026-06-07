@@ -6,7 +6,13 @@
     "verifier": "Elyas",
     "verification":  "https://youtu.be/k1GecfTyFl0", 
     "percentToQualify": 76,
-    "password": "9/10",
+    "password": "8.5/10",
     "records": [
+        {
+            "user": "caspa",
+            "link": "https://youtu.be/4q4mj4Ybo_I", 
+            "percent": 100,
+            "hz": 200
+        }
     ]
 }
