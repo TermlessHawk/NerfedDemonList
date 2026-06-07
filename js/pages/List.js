@@ -109,7 +109,7 @@ export default {
                         Have clicks/taps recorded from your microphone in the video.
                     </p>
                     <p>
-                        A Megahack CPS Counter must be present in the video(if you don't have it, use the "Show Info Label" Option in GD).
+                        A CPS Counter must be present in the video(if you don't have it, use the "Show Info Label" Option in GD).
                     </p>
                     <p>
                         The recording must show the previous attempt and the entire death animation, unless the completion is a first attempt.
