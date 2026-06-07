@@ -6,13 +6,19 @@
     "verifier": "Lou",
     "verification": "https://youtu.be/q2I1MaErchM",
     "percentToQualify": 66,
-    "password": "8.5/10",
+    "password": "8.67/10",
     "records": [
         {
             "user": "janeXz602",
             "link": "https://www.youtube.com/watch?v=mcoehTJFU3E", 
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ExsChestnut",
+            "link": "https://youtu.be/d271vtxg8os", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
