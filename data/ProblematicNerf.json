@@ -6,7 +6,7 @@
     "verifier": "Lou",
     "verification":  "https://youtu.be/TJapKbEiSRs", 
     "percentToQualify": 85,
-    "password": "8/10",
+    "password": "7/10",
     "records": [
          {
             "user": "Jumanji",
@@ -25,6 +25,12 @@
             "link": " https://youtu.be/Zzi1lyAsGck", 
             "percent": 100,
             "hz": 60
-                 }
+         }, 
+         {
+            "user": "janeXz602",
+            "link": "https://www.youtube.com/watch?v=-1y-gjizn_M", 
+            "percent": 100,
+            "hz": 240
+          }
     ]
 }
