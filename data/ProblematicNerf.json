@@ -37,6 +37,12 @@
             "link": "https://youtu.be/y73sKBGsJ9A", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "TermlessHawk",
+            "link": "https://www.youtube.com/watch?v=ypRfzSFQTy4", 
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
