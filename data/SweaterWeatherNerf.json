@@ -6,13 +6,19 @@
     "verifier": "[CNGR] Tosterr",
     "verification": "https://www.youtube.com/watch?v=CzUWBXHnueU",
     "percentToQualify": 70,
-    "password": "9.5/10",
+    "password": "9.67/10",
     "records": [
         {
             "user": "Michciu Dev",
             "link": "https://www.youtube.com/watch?v=d25ZBj0e9fM", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "[TORT] Status",
+            "link": "https://www.youtube.com/watch?v=Q2yxgGYN2gQ", 
+            "percent": 100,
+            "hz": 144
         },
         {
             "user": "Msidhsj",
