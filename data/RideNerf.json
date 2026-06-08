@@ -8,5 +8,11 @@
     "percentToQualify": 70,
     "password": "3/10",
     "records": [
+         {
+            "user": "janeXz602",
+            "link": "https://www.youtube.com/watch?v=f7Ufrb6hWMg", 
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }
