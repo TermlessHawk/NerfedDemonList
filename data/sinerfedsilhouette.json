@@ -1,1 +1,12 @@
-
+{
+    "id": 142183238, 
+    "name": "Tidy",
+    "author": "DefDaniel",
+    "creators": ["DefDaniel"],
+    "verifier": "DefNotDaniel",
+    "verification":  "https://youtu.be/7oqcoiRkCCE", 
+    "percentToQualify": 70,
+    "password": "9/10",
+    "records": [
+    ]
+}
