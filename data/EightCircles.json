@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=9wIp87MO6cE", 
             "percent": 100,
             "hz": 120
-          }
+          }, 
+        {
+            "user": "Vale",
+            "link": "https://youtu.be/c3aALiWFycY?si=9d1tjFtg6UxTqPVt", 
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
