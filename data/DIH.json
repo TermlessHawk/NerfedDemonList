@@ -8,5 +8,11 @@
     "percentToQualify": 76,
     "password": "6/10",
     "records": [
+        {
+            "user": "[CNGR] Minion",
+            "link": "https://youtu.be/fZc6Tt8hGzM", 
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
