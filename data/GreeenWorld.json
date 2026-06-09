@@ -91,6 +91,12 @@
             "link": "https://youtu.be/Hgek292NONU", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "zab_a",
+            "link": "https://www.youtube.com/watch?v=VK7h3GIYEm4", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
