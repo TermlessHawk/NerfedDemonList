@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=_fFFyqrtuRk", 
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "DefNotDaniel",
+            "link": "https://www.youtube.com/watch?v=wmhWyoZAINM", 
+            "percent": 100,
+            "hz": 165
+        
     ]
 }
