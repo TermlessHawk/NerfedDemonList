@@ -9,16 +9,16 @@
     "password": "6.5/10",
     "records": [
         {
-            "user": "[CNGR] Minion",
-            "link": "https://youtu.be/fZc6Tt8hGzM", 
-            "percent": 100,
-            "hz": 180
-        },
-        {
             "user": "Elyas",
             "link": "https://www.youtube.com/watch?v=mPMHx_zwOtc", 
             "percent": 100,
             "hz": 75
            }
+        {
+            "user": "[CNGR] Minion",
+            "link": "https://youtu.be/fZc6Tt8hGzM", 
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
