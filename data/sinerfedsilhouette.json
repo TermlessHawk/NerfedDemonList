@@ -8,5 +8,12 @@
     "percentToQualify": 70,
     "password": "9/10",
     "records": [
+        {
+            "user": "Elyas",
+            "link": "https://youtu.be/FNJ3BBFbz_Y", 
+            "percent": 100,
+            "hz": 75
+           }
+
     ]
 }
