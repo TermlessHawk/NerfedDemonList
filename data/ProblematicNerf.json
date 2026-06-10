@@ -6,7 +6,7 @@
     "verifier": "Lou",
     "verification":  "https://youtu.be/TJapKbEiSRs", 
     "percentToQualify": 85,
-    "password": "6.7/10",
+    "password": "6.8/10",
     "records": [
          {
             "user": "Jumanji",
@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=P9_uqvXzwco", 
             "percent": 100,
             "hz": 144
-        }
+        },
+         {
+            "user": "[CNGR] zzz",
+            "link": "https://www.youtube.com/watch?v=7csSpkeKnnc", 
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }
