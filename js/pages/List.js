@@ -121,7 +121,7 @@ export default {
                         A Cheat Indicator is required.
                     </p>
                     <p>
-                        Using more than one mod menu is forbidden.
+                        Note that using more than one mod menu can cause suspicion.
                     </p>
                     <p>
                         If a list moderator is suspicious of your completion, they may ask for raw footage.
