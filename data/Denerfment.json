@@ -6,7 +6,7 @@
     "verifier": "SZopsaRX",
     "verification": "https://youtu.be/T65900MyuRE", 
     "percentToQualify": 91,
-    "password": "7.5/10",
+    "password": "7/10",
     "records": [
          {
             "user": "[CNGR] Tosterr",
@@ -122,5 +122,11 @@
             "percent": 100,
             "hz": 240
         }
+        {
+            "user": "PGK_Panoz",
+            "link": "https://youtu.be/KATzd-UAFfo", 
+            "percent": 100,
+            "hz": 165
+         }
     ]
 }
