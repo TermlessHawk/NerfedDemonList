@@ -14,7 +14,7 @@
             "percent": 100,
             "hz": 144
         },
-                 {
+         {
             "user": "Michciu Dev",
             "link": "https://youtu.be/dKmEywmRbq0", 
             "percent": 100,
@@ -103,6 +103,12 @@
             "link": "https://www.youtube.com/watch?v=P9_uqvXzwco", 
             "percent": 100,
             "hz": 144
-        }
+        },
+        {
+            "user": "PGK_Panoz",
+            "link": "https://www.youtube.com/watch?v=_PFJRF65kSY", 
+            "percent": 100,
+            "hz": 165
+         }
     ]
 }
