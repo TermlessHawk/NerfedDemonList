@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=wmhWyoZAINM", 
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "ExsChestnut",
+            "link": "https://youtu.be/d271vtxg8os", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
