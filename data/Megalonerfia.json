@@ -6,13 +6,19 @@
     "verifier": "Bill13high",
     "verification":  "https://youtu.be/FQdQbvDdfZU?feature=shared", 
     "percentToQualify": 73,
-    "password": "2.75/10",
+    "password": "2.17/10",
     "records": [
         {
             "user": "janeXz602",
             "link": "https://www.youtube.com/watch?v=s6_15p8CSY8", 
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Msidhsj",
+            "link": "https://www.youtube.com/watch?v=xOgtDbYXKDs", 
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
