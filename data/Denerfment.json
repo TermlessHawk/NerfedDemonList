@@ -127,6 +127,12 @@
             "link": "https://youtu.be/KATzd-UAFfo", 
             "percent": 100,
             "hz": 165
+         },
+         {
+            "user": "[TORT] Status",
+            "link": "https://www.youtube.com/watch?v=P9_uqvXzwco", 
+            "percent": 100,
+            "hz": 144
          }
     ]
 }
