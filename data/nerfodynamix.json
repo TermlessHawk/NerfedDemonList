@@ -6,13 +6,19 @@
     "verifier": "Elyas",
     "verification":  "https://youtu.be/k1GecfTyFl0", 
     "percentToQualify": 76,
-    "password": "8.5/10",
+    "password": "7.67/10",
     "records": [
         {
             "user": "caspa",
             "link": "https://youtu.be/4q4mj4Ybo_I", 
             "percent": 100,
             "hz": 200
+        }, 
+        {
+            "user": "janeXz602",
+            "link": "https://www.youtube.com/watch?v=CU6W7JQc1aU", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
