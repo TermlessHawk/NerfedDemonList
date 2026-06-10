@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Ruleset</h3>
                     <p>
-                        Achieved the record without using hacks(including physics bypass, however FPS bypass is allowed up to 540 FPS).
+                        Achieved the record without using hacks(including physics bypass, however FPS bypass is allowed).
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - ULDM copies aren't allowed.
@@ -124,7 +124,7 @@ export default {
                         Note that using more than one mod menu can cause suspicion.
                     </p>
                     <p>
-                        If a list moderator is suspicious of your completion, they may ask for raw footage.
+                        If a list moderator is suspicious of your completion, they may ask for raw footage or in rare cases reject it entirely.
                     </p>
                     <p>
                         After you submit a Completion, please provide the amount of HZ you completed the level on.
