@@ -6,7 +6,7 @@
     "verifier": "[CNGR] Tosterr",
     "verification":  "https://www.youtube.com/watch?v=TkhBZQ2sXhI", 
     "percentToQualify": 73,
-    "password": "6.5/10",
+    "password": "7.86/10",
     "records": [
                 {
             "user": "Michciu Dev",
@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=FicOxccSac4", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "SantasBreakdance",
+            "link": "https://www.youtube.com/watch?v=BbxgFM6PiTM", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
