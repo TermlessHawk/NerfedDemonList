@@ -9,17 +9,17 @@
     "password": "1/10",
     "records": [
         {
-            "user": "Elyas",
-            "link": "https://www.youtube.com/watch?v=ie-pz4CfD4Q", 
-            "percent": 100,
-            "hz": 75
-         },
-        {
             "user": "[TORT] Status",
             "link": "https://www.youtube.com/watch?v=nCm4_mAWM0U", 
             "percent": 100,
             "hz": 144
         },
+        {
+            "user": "Elyas",
+            "link": "https://www.youtube.com/watch?v=ie-pz4CfD4Q", 
+            "percent": 100,
+            "hz": 75
+         },
          {
             "user": "[CNGR] zzz",
             "link": "https://youtu.be/aaCfhgMkz34", 
