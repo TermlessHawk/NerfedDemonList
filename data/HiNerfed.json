@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=G9REeRWERBE", 
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "Bill13high",
+            "link": "https://youtu.be/ugoDm7NIpfc?feature=shared", 
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
