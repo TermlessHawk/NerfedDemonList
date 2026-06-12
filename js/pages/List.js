@@ -112,7 +112,7 @@ export default {
                         A CPS Counter must be present in the video(if you don't have it, use the "Show Info Label" Option in GD).
                     </p>
                     <p>
-                        The recording must show the previous attempt and the entire end screen and death animation(unless the record is a first attempt).
+                        The recording must show the previous attempt, the entire end screen and death animation(unless the record is a first attempt).
                     </p>
                     <p>
                         Do not use bug routes.
