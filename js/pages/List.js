@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Skill set</div>
-                            <p>{{ level.password || 'No enjoyment is provided' }}</p>
+                            <p>{{ level.password || 'No skill set is provided' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
