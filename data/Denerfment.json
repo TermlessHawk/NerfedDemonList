@@ -139,6 +139,12 @@
             "link": "https://youtu.be/RmQ0WAlciy4", 
             "percent": 100,
             "hz": 240
-         }
+         },
+        {
+            "user": "gg1nf04",
+            "link": "https://www.youtube.com/watch?v=jWCsxqcwt6E", 
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
