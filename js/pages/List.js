@@ -51,7 +51,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Average Enjoyment</div>
+                            <div class="type-title-sm">Skill set</div>
                             <p>{{ level.password || 'No enjoyment is provided' }}</p>
                         </li>
                     </ul>
