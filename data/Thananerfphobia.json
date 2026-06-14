@@ -8,5 +8,11 @@
     "percentToQualify": 57,
     "password": "Fast Paced",
     "records": [
+        {
+            "user": "elyas",
+            "link": "https://www.youtube.com/watch?v=CbyCqLNXTWU", 
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
