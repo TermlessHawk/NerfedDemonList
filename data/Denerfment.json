@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=4roLabSzD2M", 
             "percent": 100,
             "hz": 144
+         },
+        {
+            "user": "MrStickmanGD",
+            "link": "https://www.youtube.com/watch?v=sY4xC_p0aYc", 
+            "percent": 100,
+            "hz": 60
          }
     ]
 }
