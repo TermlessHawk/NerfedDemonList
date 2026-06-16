@@ -1,0 +1,18 @@
+{
+    "id": 142007162, 
+    "name": "Xo Nerf",
+    "author": "janeXz602",
+    "creators": ["janeXz602"],
+    "verifier": "janeXz602",
+    "verification":  "https://www.youtube.com/watch?v=O6WjKdNbtlE", 
+    "percentToQualify": 72,
+    "password": "Overall",
+    "records": [
+        {
+            "user": "[CNGR] Tosterr",
+            "link": "https://youtu.be/BSEeVCZHLB4", 
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
