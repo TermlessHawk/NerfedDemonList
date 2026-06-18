@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=I-5ryDxOwq4", 
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "elyas",
+            "link": "https://youtu.be/-Nhpi5lPkwA?si=vkmGC4TTYb2kyKGc", 
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
