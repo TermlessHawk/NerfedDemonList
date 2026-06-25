@@ -133,6 +133,12 @@
             "link": "https://www.youtube.com/watch?v=PgcTst8qFQY", 
             "percent": 100,
             "hz": 75
-           }
+           },
+        {
+            "user": "Max64209",
+            "link": "https://www.youtube.com/watch?v=OMK1KzQnkg0", 
+            "percent": 100,
+            "hz": 165
+         }
     ]
 }
