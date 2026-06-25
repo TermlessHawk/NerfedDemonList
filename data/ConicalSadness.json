@@ -8,5 +8,11 @@
     "percentToQualify": 55,
     "password": "Memory & Awkward Gameplay",
     "records": [
+         {
+            "user": "DefNotDaniel",
+            "link": "https://youtu.be/XL7emfk2l30", 
+            "percent": 100,
+            "hz": 165
+          }
     ]
 }
