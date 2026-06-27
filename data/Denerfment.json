@@ -181,6 +181,12 @@
             "link": "https://youtu.be/lJOBQhbeMUY?is=1RDv321XdiBkeuMn", 
             "percent": 100,
             "hz": 60
+           },
+        {
+            "user": "pickle",
+            "link": "https://www.youtube.com/watch?v=BLGBivcgzFU", 
+            "percent": 100,
+            "hz": 240
            }
     ]
 }
