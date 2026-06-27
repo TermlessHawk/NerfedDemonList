@@ -103,6 +103,12 @@
             "link": "https://youtu.be/rr7XI_TyzgA?si=UmBbTw-YIheoLUG5", 
             "percent": 100,
             "hz": 75
-         }
+         },
+        {
+            "user": "Likewizziegmd",
+            "link": "https://www.youtube.com/watch?v=MOVbHemcj9Q", 
+            "percent": 100,
+            "hz": 60
+           }
     ]
 }
