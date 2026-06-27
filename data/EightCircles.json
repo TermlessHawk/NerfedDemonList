@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=yY1mgVr5AFU", 
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "WhiteBread",
+            "link": "https://www.youtube.com/watch?v=YfyRHIP1wkk", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
