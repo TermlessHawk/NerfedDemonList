@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=A-7oD9hz8SY", 
             "percent": 100,
             "hz": 240
+         },
+         {
+            "user": "m1lo",
+            "link": "https://www.youtube.com/watch?v=FVP-3YAHAKA", 
+            "percent": 100,
+            "hz": 60
          }
     ]
 }
