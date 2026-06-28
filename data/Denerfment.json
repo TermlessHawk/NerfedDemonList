@@ -199,6 +199,12 @@
             "link": "https://www.youtube.com/watch?v=iBxE80mDRP8", 
             "percent": 100,
             "hz": 120
+         },
+         {
+            "user": "Reft",
+            "link": "https://www.youtube.com/watch?v=SWSBkz-HmGQ", 
+            "percent": 100,
+            "hz": 240
          }
     ]
 }
