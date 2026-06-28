@@ -205,6 +205,12 @@
             "link": "https://www.youtube.com/watch?v=SWSBkz-HmGQ", 
             "percent": 100,
             "hz": 240
+         },
+         {
+            "user": "EthoGMD",
+            "link": "https://www.youtube.com/watch?v=gY_zGOYbKKE", 
+            "percent": 100,
+            "hz": 240
          }
     ]
 }
