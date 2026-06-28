@@ -49,7 +49,12 @@
             "link": "https://www.youtube.com/watch?v=cD_vCfFm7cg", 
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LvnChaserr",
+            "link": "https://www.youtube.com/watch?v=Fsq7IUOPOck", 
+            "percent": 100,
+            "hz": 180
         }
-
     ]
 }
