@@ -211,6 +211,12 @@
             "link": "https://www.youtube.com/watch?v=gY_zGOYbKKE", 
             "percent": 100,
             "hz": 240
+         },
+         {
+            "user": "m1lo",
+            "link": "https://www.youtube.com/watch?v=JNA38YAKn20", 
+            "percent": 100,
+            "hz": 60
          }
     ]
 }
