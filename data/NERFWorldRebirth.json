@@ -4,15 +4,21 @@
     "author": "Reft014",
     "creators": ["Reft"],
     "verifier": "Reft",
-    "verification": "https://www.youtube.com/watch?v=si1V-ojXEJM", 
+    "verification": "https://www.youtube.com/watch?v=cZejauoLgKI", 
     "percentToQualify": 77,
     "password": "Ship & Chokepoints",
     "records": [
+         {
+            "user": "janeXz602",
+            "link": "https://www.youtube.com/watch?v=cZejauoLgKI", 
+            "percent": 100,
+            "hz": 300
+         },
          {
             "user": "kupsko",
             "link": "https://www.youtube.com/watch?v=cZejauoLgKI", 
             "percent": 100,
             "hz": 144
-         }
+         }  
     ]
 }
