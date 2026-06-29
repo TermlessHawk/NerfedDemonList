@@ -169,6 +169,12 @@
             "link": "https://www.youtube.com/watch?v=UMnsaZpelxc", 
             "percent": 100,
             "hz": 240
+         },
+         {
+            "user": "kupsko",
+            "link": "https://www.youtube.com/watch?v=DvI--osMm0E", 
+            "percent": 100,
+            "hz": 144
          }
     ]
 }
