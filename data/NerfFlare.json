@@ -8,5 +8,11 @@
     "percentToQualify": 42,
     "password": "Wave",
     "records": [
+        {
+            "user": "janeXz602",
+            "link": "https://www.youtube.com/watch?v=KXnV_7ZzjHU", 
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
