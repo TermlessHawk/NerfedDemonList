@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=7R3Dy7XzmJU", 
             "percent": 100,
             "hz": 60
-         }
+         },
+        {
+            "user": "Chocapic",
+            "link": "https://www.youtube.com/watch?v=iC8E1lFTZ34", 
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
