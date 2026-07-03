@@ -1,0 +1,18 @@
+{
+    "id": 143832730, 
+    "name": "The Nerfmare",
+    "author": "TemperowkaHonor",
+    "creators": ["Oscarelo"],
+    "verifier": "Oscarelo",
+    "verification": "https://www.youtube.com/watch?v=wxge0NcEFNY", 
+    "percentToQualify": 86,
+    "password": "Overall",
+    "records": [
+        {
+            "user": "[CNGR] Tosterr",
+            "link": "https://www.youtube.com/watch?v=ebOL42yr2s4", 
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
