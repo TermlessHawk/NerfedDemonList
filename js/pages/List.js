@@ -103,9 +103,6 @@ export default {
                         Achieved the record without using hacks(including physics bypass, however FPS bypass is allowed).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - ULDM copies aren't allowed.
-                    </p>
-                    <p>
                         Have clicks/taps recorded from your microphone in the video.
                     </p>
                     <p>
@@ -119,6 +116,9 @@ export default {
                     </p>
                     <p>
                         A Cheat Indicator is required.
+                    </p>
+                    <p>
+                        Please make sure your clicks are audible, inaudible clicks can cause your record to be rejected altogether.
                     </p>
                     <p>
                         Note that using more than one mod menu can cause suspicion.
