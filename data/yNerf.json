@@ -8,5 +8,11 @@
     "percentToQualify": 70,
     "password": "Ship & Timings",
     "records": [
+        {
+            "user": "janeXz602",
+            "link": "https://youtu.be/uvovd8AR0C8", 
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }
