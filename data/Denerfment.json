@@ -277,6 +277,12 @@
             "link": "https://www.youtube.com/watch?v=fHjV276nsl8", 
             "percent": 100,
             "hz": 240
+        }, 
+        {
+            "user": "bortoletoistuff",
+            "link": "https://youtu.be/O5V8RoWsPPE", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
