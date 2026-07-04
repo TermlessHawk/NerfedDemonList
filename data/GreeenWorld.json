@@ -181,6 +181,12 @@
             "link": "https://www.youtube.com/watch?v=pYHnYU6gqhw", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "k2mdn",
+            "link": "https://www.youtube.com/watch?v=940xzbah1GY", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
