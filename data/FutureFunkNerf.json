@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=uKVrUvvNhww", 
             "percent": 100,
             "hz": 240
-          }
+        },
+        {
+            "user": "[CNGR] Tosterr",
+            "link": "https://youtu.be/YAc-N6vWbNI", 
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
