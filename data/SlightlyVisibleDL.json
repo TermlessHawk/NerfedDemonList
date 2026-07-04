@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=lWUFBudo-W0", 
             "percent": 100,
             "hz": 144
-         }
+         }, 
+        {
+            "user": "ak4c",
+            "link": "https://www.youtube.com/watch?v=HHHWC9r2Sq0", 
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
