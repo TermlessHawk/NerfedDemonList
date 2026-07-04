@@ -133,6 +133,12 @@
             "link": "https://www.youtube.com/watch?v=L1MSVblRXM4", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "k2mdn",
+            "link": "https://www.youtube.com/watch?v=gOw_ZlxW7is", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
