@@ -1,0 +1,18 @@
+{
+    "id": 144097000, 
+    "name": "Denerf",
+    "author": "adrianoben",
+    "creators": ["adrianroben"],
+    "verifier": "adrianroben",
+    "verification": "https://youtu.be/9Z2uxoTz1AY", 
+    "percentToQualify": 67,
+    "password": "Overall",
+    "records": [
+        {
+            "user": "[CNGR] Tosterr",
+            "link": "https://www.youtube.com/watch?v=v__KJmXfxaQ", 
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
