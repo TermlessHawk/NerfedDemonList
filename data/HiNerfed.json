@@ -67,6 +67,12 @@
             "link": "https://www.youtube.com/watch?v=f3yLZ4CRVo0", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "adrianroben",
+            "link": "https://www.youtube.com/watch?v=r-8zRQ3fMI8", 
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
