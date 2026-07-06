@@ -124,7 +124,7 @@ export default {
                         Note that using more than one mod menu can cause suspicion.
                     </p>
                     <p>
-                        If a list moderator is suspicious of your completion, they may ask for raw footage or in rare cases reject it entirely.
+                        If a list moderator is suspicious of your completion, they may ask for additional proof or in rare cases reject it entirely.
                     </p>
                     <p>
                         Isolated clicks are required for records in the Top 10.
