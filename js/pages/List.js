@@ -127,10 +127,7 @@ export default {
                         If a list moderator is suspicious of your completion, they may ask for raw footage or in rare cases reject it entirely.
                     </p>
                     <p>
-                        After you submit a Completion, please provide the amount of HZ you completed the level on.
-                    </p>
-                    <p>
-                        If you're giving an opinion on the levels enjoyment, please do it in the description of your completion video.
+                        
                     </p>
                     <p>
                         You can submit records on the NDL Discord server.
