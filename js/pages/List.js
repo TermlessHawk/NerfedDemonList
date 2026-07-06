@@ -127,7 +127,7 @@ export default {
                         If a list moderator is suspicious of your completion, they may ask for raw footage or in rare cases reject it entirely.
                     </p>
                     <p>
-                        
+                        Isolated clicks are required for records in the Top 10.
                     </p>
                     <p>
                         You can submit records on the NDL Discord server.
