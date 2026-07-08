@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=T8cl5lO5bJ0", 
             "percent": 100,
             "hz": 75
-         }
+         }, 
+        {
+            "user": "boshy",
+            "link": "https://www.youtube.com/watch?v=hCPo6H96yAs", 
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
