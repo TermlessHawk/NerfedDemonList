@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=DvLir2egriw", 
             "percent": 100,
             "hz": 144
+         },
+        {
+            "user": "Aeris",
+            "link": "https://www.youtube.com/watch?v=haL8wvuXgt4", 
+            "percent": 100,
+            "hz": 120
          }
     ]
 }
