@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=9hmjr9qzCvQ", 
             "percent": 52,
             "hz": 144
+        },
+        {
+            "user": "luo",
+            "link": "https://www.youtube.com/watch?v=YX-B8RL9I-c", 
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
