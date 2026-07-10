@@ -3,12 +3,12 @@
     "name": "Hi Nerfed",
     "author": "Flub",
     "creators": ["Flub"],
-    "verifier": "[CNGR] Tosterr",
+    "verifier": "[TOST] Tosterr",
     "verification": "https://youtu.be/P91nWjriy0k",
     "percentToQualify": 85,
     "password": "Nerve Control",
     "records": [
-                   {
+        {
             "user": "Msidhsj",
             "link": "https://youtu.be/sADlCjNgiH8?si=ZCd8A-TrmRwjwsDM", 
             "percent": 100,
