@@ -85,6 +85,12 @@
             "link": "www.youtube.com/watch?v=BR9ZTx1Qbzgfd", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ciganyrece",
+            "link": "https://youtu.be/tFVNcT2-EJw", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
