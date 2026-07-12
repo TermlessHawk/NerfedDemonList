@@ -295,6 +295,12 @@
             "link": "https://youtu.be/kPpUiHAVeFw", 
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "AJD",
+            "link": "https://www.youtube.com/watch?v=v2203849ExU", 
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
