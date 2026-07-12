@@ -28,7 +28,7 @@
         }, 
         {
             "user": "adrianroben",
-            "link": "https://www.youtube.com/watch?v=9hmjr9qzCvQ", 
+            "link": "https://www.youtube.com/watch?v=9hmjr9qzCvQ",
             "percent": 52,
             "hz": 144
         },
@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=YX-B8RL9I-c", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "AJD",
+            "link": "https://www.youtube.com/watch?v=8RT0Fg63BXw", 
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
