@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=v__KJmXfxaQ", 
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Yoink",
+            "link": "https://www.youtube.com/watch?v=S-XhYXxQYOM", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
