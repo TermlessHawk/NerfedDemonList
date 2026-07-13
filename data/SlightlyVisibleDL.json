@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=haL8wvuXgt4", 
             "percent": 100,
             "hz": 120
-         }
+         },
+        {
+            "user": "dyrox",
+            "link": "https://www.youtube.com/watch?v=WUI6r_rukB4", 
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
