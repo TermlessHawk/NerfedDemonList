@@ -127,6 +127,12 @@
             "link": "https://www.youtube.com/watch?v=L1MSVblRXM4", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "dyrox",
+            "link": "https://www.youtube.com/watch?v=tzustYqVqtI", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
