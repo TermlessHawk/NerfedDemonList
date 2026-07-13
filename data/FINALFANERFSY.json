@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=8RT0Fg63BXw", 
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "crysmaticgd",
+            "link": "https://www.youtube.com/watch?v=_iXxSi0V39U", 
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
