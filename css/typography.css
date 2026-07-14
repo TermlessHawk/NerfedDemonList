@@ -149,12 +149,12 @@ dt::after,
     margin-top: -0.325em;
     display: table;
 }
-
+/*levele w liscie, nazwy list editorow, nazwy tabow, main i extended list w ruletce*/
 label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Playfair Display", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
     font-weight: 500;
@@ -172,7 +172,7 @@ input[type="number"],
 }
 
 .type-label-md {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Playfair Display", sans-serif;
     font-size: 14.2857142857px;
     line-height: 18px;
     font-weight: 500;
