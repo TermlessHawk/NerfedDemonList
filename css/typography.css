@@ -149,7 +149,7 @@ dt::after,
     margin-top: -0.325em;
     display: table;
 }
-/*levele w liscie, nazwy list editorow, nazwy tabow, main i extended list w ruletce*/
+/*levele w liscie, nazwy list editorow, nazwy tabow, main i extended list w ruletce, nazwy ludzi i pointsy w leaderboardach*/
 label,
 input[type="text"],
 input[type="number"],
