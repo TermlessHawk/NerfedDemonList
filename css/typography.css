@@ -26,7 +26,7 @@ h1::after,
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 34.2857142857px;
     line-height: 40px;
     font-weight: 700;
@@ -154,7 +154,7 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
     font-weight: 500;
@@ -190,7 +190,7 @@ input[type="number"],
 }
 
 .type-label-sm {
-    font-family: "Lexend Exa", sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
     font-weight: 500;
