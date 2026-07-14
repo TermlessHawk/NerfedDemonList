@@ -7,7 +7,7 @@ h1,
     font-weight: 700;
     letter-spacing: -2px;
     -webkit-font-smoothing: subpixel-antialiased;
-}
+} 
 h1::before,
 .type-h1::before,
 .type-headline-lg::before {
@@ -22,11 +22,11 @@ h1::after,
     margin-top: -0.1305555556em;
     display: table;
 }
-
+/*Logo, Records, Verified, Completed, Progressed, nazwy w ruletce z jakiegos powodu xd*/
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: "Playfair Display", sans-serif;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
     font-size: 34.2857142857px;
     line-height: 40px;
     font-weight: 700;
@@ -51,7 +51,7 @@ h2::after,
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Playfair Display", sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
