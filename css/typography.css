@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=LexendExa:wght@400;500;700&display=swap');
 h1,
 .type-h1,
 .type-headline-lg {
@@ -26,7 +27,7 @@ h1::after,
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 34.2857142857px;
     line-height: 40px;
     font-weight: 700;
@@ -51,7 +52,7 @@ h2::after,
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -75,7 +76,7 @@ h3::after,
 h4,
 .type-h4,
 .type-title-lg {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -100,7 +101,7 @@ h4::after,
 h5,
 .type-h5,
 .type-title-md {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 20px;
     line-height: 26px;
     font-weight: 700;
@@ -126,7 +127,7 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 17.1428571429px;
     line-height: 24px;
     font-weight: 700;
@@ -154,7 +155,7 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
     font-weight: 500;
@@ -172,7 +173,7 @@ input[type="number"],
 }
 
 .type-label-md {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 14.2857142857px;
     line-height: 18px;
     font-weight: 500;
@@ -190,7 +191,7 @@ input[type="number"],
 }
 
 .type-label-sm {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
     font-weight: 500;
@@ -209,7 +210,7 @@ input[type="number"],
 
 p,
 .type-body {
-    font-family: "Kumbh Sans ", sans-serif;
+    font-family: "Lexend Exa", sans-serif;
     font-size: 17.1428571429px;
     line-height: 28px;
     font-weight: 500;
