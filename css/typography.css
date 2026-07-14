@@ -100,7 +100,7 @@ h4::after,
 h5,
 .type-h5,
 .type-title-md {
-    font-family: "Playfair Display", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 20px;
     line-height: 26px;
     font-weight: 700;
@@ -126,7 +126,7 @@ h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Playfair Display", sans-serif;
     font-size: 17.1428571429px;
     line-height: 24px;
     font-weight: 700;
