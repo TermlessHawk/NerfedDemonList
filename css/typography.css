@@ -190,7 +190,7 @@ input[type="number"],
 }
 
 .type-label-sm {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 11.4285714286px;
     line-height: 12px;
     font-weight: 500;
@@ -209,7 +209,7 @@ input[type="number"],
 
 p,
 .type-body {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 17.1428571429px;
     line-height: 28px;
     font-weight: 500;
