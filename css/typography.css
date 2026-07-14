@@ -26,7 +26,7 @@ h1::after,
 h2,
 .type-h2,
 .type-headline-md {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 34.2857142857px;
     line-height: 40px;
     font-weight: 700;
@@ -47,11 +47,11 @@ h2::after,
     margin-top: -0.2083333333em;
     display: table;
 }
-
+/*Submission ruleset samo bez tekstu w tym, ilosc pointsow na leaderboardzie*/
 h3,
 .type-h3,
 .type-headline-sm {
-    font-family: "Playfair Display", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
@@ -75,7 +75,7 @@ h3::after,
 h4,
 .type-h4,
 .type-title-lg {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Playfair Display", sans-serif;
     font-size: 22.8571428571px;
     line-height: 28px;
     font-weight: 700;
