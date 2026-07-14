@@ -121,12 +121,12 @@ h5::after,
     margin-top: -0.275em;
     display: table;
 }
-
+/*creator, verifier, author, points when completed, id, skill set(bez numerow ofc)*/
 h6,
 dt,
 .type-h6,
 .type-title-sm {
-    font-family: "Playfair Display", sans-serif;
+    font-family: "Stack Sans Headline", sans-serif;
     font-size: 17.1428571429px;
     line-height: 24px;
     font-weight: 700;
@@ -154,7 +154,7 @@ label,
 input[type="text"],
 input[type="number"],
 .type-label-lg {
-    font-family: "Zalando Sans SemiExpanded", sans-serif;
+    font-family: "Playfair Display", sans-serif;
     font-size: 17.1428571429px;
     line-height: 20px;
     font-weight: 500;
