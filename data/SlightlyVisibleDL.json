@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=qRb8GgoL0X0", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "orbPT",
+            "link": "https://www.youtube.com/watch?v=XvrBHzujAAQ", 
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
