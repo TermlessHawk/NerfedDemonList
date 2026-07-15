@@ -55,7 +55,13 @@
             "link": "https://www.youtube.com/watch?v=q1_NdiIumD4", 
             "percent": 100,
             "hz": 75
-         }
+         },
+        {
+            "user": "Puffaboi",
+            "link": "https://www.youtube.com/watch?v=8Cboh4U8YvY", 
+            "percent": 100,
+            "hz": 60
+        }
 
     ]
 }
