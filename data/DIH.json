@@ -67,6 +67,12 @@
             "link": "https://www.youtube.com/watch?v=wfSmO4mAMPA", 
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "Puffaboi",
+            "link": "https://www.youtube.com/watch?v=Wd8DJMQ5-es", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
