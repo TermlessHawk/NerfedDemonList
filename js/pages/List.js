@@ -299,7 +299,7 @@ export default {
                     </p>
 
                     <p>
-                        
+                        The video listed on the site must still show the full record from the raw footage.
                     </p>
 
                     <p>
