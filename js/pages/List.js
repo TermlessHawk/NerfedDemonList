@@ -283,9 +283,9 @@ export default {
                     </p>
 
                     <p>
-                        The
-                    </p>
                         The video listed on the site must still show the full record from the raw footage.
+                    </p>
+                        
                     <p>
                         Do not use bug routes.
                     </p>
