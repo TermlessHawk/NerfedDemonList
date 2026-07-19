@@ -293,7 +293,7 @@ export default {
                     <p>
                         A Cheat Indicator is required.
                     </p>
-                        
+                        The recording must show the previous attempt, the entire end screen and death animation(unless the record is a first attempt).
                     <p>
                         Please make sure your clicks are audible, inaudible clicks can cause your record to be rejected altogether.
                     </p>
