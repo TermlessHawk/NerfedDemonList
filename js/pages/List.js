@@ -293,7 +293,7 @@ export default {
                     <p>
                         A Cheat Indicator is required.
                     </p>
-                        The video listed on the site must still show the full record from the raw footage.
+                        
                     <p>
                         Please make sure your clicks are audible, inaudible clicks can cause your record to be rejected altogether.
                     </p>
