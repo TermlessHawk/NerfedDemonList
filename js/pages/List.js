@@ -283,7 +283,7 @@ export default {
                     </p>
 
                     <p>
-                        The recording must show the previous attempt, the entire end screen and death animation(unless the record is a first attempt).
+                        The
                     </p>
                         The video listed on the site must still show the full record from the raw footage.
                     <p>
