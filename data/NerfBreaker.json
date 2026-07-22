@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=cZGlMEENa9Y", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "eto",
+            "link": "https://www.youtube.com/watch?v=hvj_bhuTM4U", 
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
