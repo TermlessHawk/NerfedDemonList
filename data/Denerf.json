@@ -2,20 +2,20 @@
     "id": 144097000, 
     "name": "Denerf",
     "author": "adrianoben",
-    "creators": ["adrianroben"],
-    "verifier": "adrianroben",
+    "creators": ["9"],
+    "verifier": "9",
     "verification": "https://youtu.be/9Z2uxoTz1AY", 
     "percentToQualify": 67,
     "password": "Overall",
     "records": [
         {
-            "user": "[TOST] Tosterr",
+            "user": "1",
             "link": "https://www.youtube.com/watch?v=v__KJmXfxaQ", 
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "Yoink",
+            "user": "3",
             "link": "https://www.youtube.com/watch?v=S-XhYXxQYOM", 
             "percent": 100,
             "hz": 60
