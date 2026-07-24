@@ -1,22 +1,22 @@
 {
-    "id": 142332880, 
+    "id": 142332880,
     "name": "Ice Carbon NERFlo X",
     "author": "janeXz602",
     "creators": ["janeXz602"],
-    "verifier": "[TOST] Tosterr",
-    "verification":  "https://youtu.be/8H1q17QkvMo", 
+    "verifier": "1",
+    "verification": "https://youtu.be/8H1q17QkvMo",
     "percentToQualify": 66,
     "password": "Awkward Gameplay",
     "records": [
         {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=CgbPcpc8Uvk", 
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=CgbPcpc8Uvk",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "crysmaticgd",
-            "link": "https://www.youtube.com/watch?v=5BOqUfDJAjI", 
+            "user": "34",
+            "link": "https://www.youtube.com/watch?v=5BOqUfDJAjI",
             "percent": 100,
             "hz": 360
         }
