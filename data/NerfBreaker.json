@@ -1,28 +1,28 @@
 {
-    "id": 143871744, 
+    "id": 143871744,
     "name": "NerfBreaker",
     "author": "TemperowkaHonor",
-    "creators": ["Oscarelo"],
-    "verifier": "Oscarelo",
-    "verification":  "https://youtu.be/mhcG29rdTtA", 
+    "creators": ["48"],
+    "verifier": "48",
+    "verification": "https://youtu.be/mhcG29rdTtA",
     "percentToQualify": 70,
     "password": "Wave & Chokepoints",
     "records": [
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://youtu.be/ZCkZ052Vfrk", 
+            "user": "1",
+            "link": "https://youtu.be/ZCkZ052Vfrk",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[DFD] Ybm54",
-            "link": "https://www.youtube.com/watch?v=cZGlMEENa9Y", 
+            "user": "25",
+            "link": "https://www.youtube.com/watch?v=cZGlMEENa9Y",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "eto",
-            "link": "https://www.youtube.com/watch?v=hvj_bhuTM4U", 
+            "user": "19",
+            "link": "https://www.youtube.com/watch?v=hvj_bhuTM4U",
             "percent": 100,
             "hz": 144
         }
