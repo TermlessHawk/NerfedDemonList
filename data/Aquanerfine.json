@@ -2,20 +2,20 @@
     "id": 142097235, 
     "name": "Aquanerfine",
     "author": "TermlessHawk",
-    "creators": ["[TOST] TermlessHawk"],
-    "verifier": "fxshgd",
+    "creators": ["5"],
+    "verifier": "17",
     "verification":  "https://www.youtube.com/watch?v=KxIx5VDyKC8", 
     "percentToQualify": 50,
     "password": "Wave",
     "records": [
         {
-            "user": "[TOST] Tosterr",
+            "user": "1",
             "link": "https://youtu.be/_9q7fyNe938", 
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[FEMB] elyas",
+            "user": "2",
             "link": "https://www.youtube.com/watch?v=PE3IdLLQykQ", 
             "percent": 87,
             "hz": 60
