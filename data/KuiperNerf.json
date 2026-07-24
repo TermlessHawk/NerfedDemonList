@@ -2,30 +2,29 @@
     "id": 141253057,
     "name": "Kuiper nerf",
     "author": "Michciu Dev",
-    "creators": ["Michciu Dev"],
-    "verifier": "Michciu Dev",
-    "verification": "https://youtu.be/aUU737G-85c/", 
+    "creators": ["12"],
+    "verifier": "12",
+    "verification": "https://youtu.be/aUU737G-85c/",
     "percentToQualify": 68,
     "password": "Wave",
     "records": [
-              {
-            "user": "[CNGR] Minion",
-            "link": "https://youtu.be/_mh9bqgygQU?si=UeVv_hxPnL4BdcRN", 
+        {
+            "user": "8",
+            "link": "https://youtu.be/_mh9bqgygQU?si=UeVv_hxPnL4BdcRN",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://youtu.be/hY_L5YZVZVM", 
+            "user": "1",
+            "link": "https://youtu.be/hY_L5YZVZVM",
             "percent": 100,
             "hz": 144
         },
-           {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=l7-MINuKFk0", 
+        {
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=l7-MINuKFk0",
             "percent": 100,
             "hz": 60
-           }
-
+        }
     ]
 }
