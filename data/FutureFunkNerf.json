@@ -2,33 +2,33 @@
     "id": 141387630,
     "name": "Future Funk Nerf",
     "author": "Msidhsj",
-    "creators": ["Msidhsj"],
-    "verifier": "Msidhsj",
+    "creators": ["4"],
+    "verifier": "4",
     "verification": "https://youtu.be/6t4nln_VMlY",
     "percentToQualify": 70,
     "password": "Nerve Control",
     "records": [
-            {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=4FkO_OEYEMY", 
+        {
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=4FkO_OEYEMY",
             "percent": 100,
             "hz": 60
-           },
+        },
         {
-            "user": "bananbali",
-            "link": "https://www.youtube.com/watch?v=uKVrUvvNhww", 
+            "user": "60",
+            "link": "https://www.youtube.com/watch?v=uKVrUvvNhww",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://youtu.be/YAc-N6vWbNI", 
+            "user": "1",
+            "link": "https://youtu.be/YAc-N6vWbNI",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[PRIMUS] ciganyrece",
-            "link": "https://www.youtube.com/watch?v=skgEIHdnIeA", 
+            "user": "6",
+            "link": "https://www.youtube.com/watch?v=skgEIHdnIeA",
             "percent": 100,
             "hz": 240
         }
