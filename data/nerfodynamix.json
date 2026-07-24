@@ -2,20 +2,20 @@
     "id": 142024030, 
     "name": "nerfodynamix",
     "author": "Elyas2203",
-    "creators": ["[FEMB] elyas"],
-    "verifier": "[FEMB] elyas",
+    "creators": ["2"],
+    "verifier": "2",
     "verification":  "https://youtu.be/k1GecfTyFl0", 
     "percentToQualify": 76,
     "password": "Overall",
     "records": [
         {
-            "user": "caspa",
+            "user": "50",
             "link": "https://youtu.be/4q4mj4Ybo_I", 
             "percent": 100,
             "hz": 200
         }, 
         {
-            "user": "[TOST] Tosterr",
+            "user": "1",
             "link": "https://youtu.be/pi_Gjm4juvc", 
             "percent": 100,
             "hz": 144
