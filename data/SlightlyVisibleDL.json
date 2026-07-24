@@ -1,76 +1,76 @@
 {
-    "id": 143450124, 
+    "id": 143450124,
     "name": "Slightly Visible Deadlocked",
     "author": "Valeey",
-    "creators": ["Valeey"],
-    "verifier": "[FEMB] Valee",
-    "verification":  "https://www.youtube.com/watch?v=f0CHBE90rs4", 
+    "creators": ["16"],
+    "verifier": "16",
+    "verification": "https://www.youtube.com/watch?v=f0CHBE90rs4",
     "percentToQualify": 79,
     "password": "Overall",
     "records": [
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://www.youtube.com/watch?v=OBPydbQcUhE", 
+            "user": "1",
+            "link": "https://www.youtube.com/watch?v=OBPydbQcUhE",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "Chocapic",
-            "link": "https://www.youtube.com/watch?v=-Q8tVOStKaw", 
+            "user": "7",
+            "link": "https://www.youtube.com/watch?v=-Q8tVOStKaw",
             "percent": 100,
             "hz": 180
         },
-         {
-            "user": "[PRIMUS] ciganyrece",
-            "link": "https://www.youtube.com/watch?v=Wc7GFiRV_js", 
-            "percent": 100,
-            "hz": 240
-         },
-         {
-            "user": "S0rroweed",
-            "link": "https://www.youtube.com/watch?v=lWUFBudo-W0", 
-            "percent": 100,
-            "hz": 144
-         }, 
         {
-            "user": "ak4c",
-            "link": "https://www.youtube.com/watch?v=HHHWC9r2Sq0", 
+            "user": "6",
+            "link": "https://www.youtube.com/watch?v=Wc7GFiRV_js",
             "percent": 100,
             "hz": 240
         },
-         {
-            "user": "adrianroben",
-            "link": "https://www.youtube.com/watch?v=DvLir2egriw", 
+        {
+            "user": "61",
+            "link": "https://www.youtube.com/watch?v=lWUFBudo-W0",
             "percent": 100,
             "hz": 144
-         },
+        },
         {
-            "user": "[FEMB] Aeris",
-            "link": "https://www.youtube.com/watch?v=haL8wvuXgt4", 
+            "user": "31",
+            "link": "https://www.youtube.com/watch?v=HHHWC9r2Sq0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "10",
+            "link": "https://www.youtube.com/watch?v=DvLir2egriw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "29",
+            "link": "https://www.youtube.com/watch?v=haL8wvuXgt4",
             "percent": 100,
             "hz": 120
-         },
+        },
         {
-            "user": "dyrox",
-            "link": "https://www.youtube.com/watch?v=WUI6r_rukB4", 
+            "user": "39",
+            "link": "https://www.youtube.com/watch?v=WUI6r_rukB4",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Yoink",
-            "link": "https://www.youtube.com/watch?v=qRb8GgoL0X0", 
+            "user": "3",
+            "link": "https://www.youtube.com/watch?v=qRb8GgoL0X0",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "orbPT",
-            "link": "https://www.youtube.com/watch?v=XvrBHzujAAQ", 
+            "user": "27",
+            "link": "https://www.youtube.com/watch?v=XvrBHzujAAQ",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Luo",
-            "link": "https://www.youtube.com/watch?v=KSGFWrPZAcU", 
+            "user": "30",
+            "link": "https://www.youtube.com/watch?v=KSGFWrPZAcU",
             "percent": 100,
             "hz": 180
         }
