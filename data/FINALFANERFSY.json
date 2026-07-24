@@ -1,52 +1,52 @@
 {
-    "id": 142289701, 
+    "id": 142289701,
     "name": "FINAL FANERFSY",
     "author": "Welluhanyways",
-    "creators": ["Welluhanyways"],
-    "verifier": "[FEMB] Valee",
-    "verification":  "https://www.youtube.com/watch?v=KmpUWihCzlw", 
+    "creators": ["51"],
+    "verifier": "16",
+    "verification": "https://www.youtube.com/watch?v=KmpUWihCzlw",
     "percentToQualify": 50,
     "password": "Timings ",
     "records": [
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://youtu.be/JsimaHCAkcA", 
+            "user": "1",
+            "link": "https://youtu.be/JsimaHCAkcA",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[FEMB] elyas",
-            "link": "https://youtu.be/uiAFtOv7e4w?si=1kx1IfAFuJZSD3Z9", 
+            "user": "2",
+            "link": "https://youtu.be/uiAFtOv7e4w?si=1kx1IfAFuJZSD3Z9",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Welluhanyways",
-            "link": "https://www.youtube.com/watch?v=VyTFX-WdQl8", 
+            "user": "51",
+            "link": "https://www.youtube.com/watch?v=VyTFX-WdQl8",
             "percent": 100,
             "hz": 360
-        }, 
+        },
         {
-            "user": "adrianroben",
+            "user": "10",
             "link": "https://www.youtube.com/watch?v=9hmjr9qzCvQ",
             "percent": 52,
             "hz": 144
         },
         {
-            "user": "Luo",
-            "link": "https://www.youtube.com/watch?v=YX-B8RL9I-c", 
+            "user": "30",
+            "link": "https://www.youtube.com/watch?v=YX-B8RL9I-c",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "AJD",
-            "link": "https://www.youtube.com/watch?v=8RT0Fg63BXw", 
+            "user": "14",
+            "link": "https://www.youtube.com/watch?v=8RT0Fg63BXw",
             "percent": 100,
             "hz": 75
         },
         {
-            "user": "crysmaticgd",
-            "link": "https://www.youtube.com/watch?v=_iXxSi0V39U", 
+            "user": "34",
+            "link": "https://www.youtube.com/watch?v=_iXxSi0V39U",
             "percent": 100,
             "hz": 360
         }
