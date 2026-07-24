@@ -3,98 +3,98 @@
     "name": "Ride nerf",
     "author": "ToeToeZz",
     "creators": ["ToeToeZz"],
-    "verifier": "PGK_Panoz",
+    "verifier": "24",
     "verification": "https://youtu.be/IRexWbyVPVE",
     "percentToQualify": 70,
     "password": "Overall",
     "records": [
         {
-            "user": "[CNGR] Minion",
-            "link": "https://youtu.be/Z4pcqvcge58", 
-            "percent": 100,
-            "hz": 180
-        }, 
-        {
-            "user": "Bill13high",
-            "link": "https://www.youtube.com/watch?v=0IwBCmyxXKk", 
+            "user": "8",
+            "link": "https://youtu.be/Z4pcqvcge58",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "Lou",
-            "link": "https://www.youtube.com/watch?v=twgOLg6ykls", 
+            "user": "15",
+            "link": "https://www.youtube.com/watch?v=0IwBCmyxXKk",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "21",
+            "link": "https://www.youtube.com/watch?v=twgOLg6ykls",
             "percent": 100,
             "hz": 164
         },
         {
-            "user": "Yoink",
-            "link": "https://www.youtube.com/watch?v=G9REeRWERBE", 
+            "user": "3",
+            "link": "https://www.youtube.com/watch?v=G9REeRWERBE",
             "percent": 100,
             "hz": 60
-        }, 
+        },
         {
-            "user": "[FEMB] Valee",
-            "link": "https://www.youtube.com/watch?v=_fFFyqrtuRk", 
+            "user": "16",
+            "link": "https://www.youtube.com/watch?v=_fFFyqrtuRk",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "DefNotDaniel",
-            "link": "https://www.youtube.com/watch?v=wmhWyoZAINM", 
+            "user": "9",
+            "link": "https://www.youtube.com/watch?v=wmhWyoZAINM",
             "percent": 100,
             "hz": 165
         },
         {
-            "user": "ExsChestnut",
-            "link": "https://www.youtube.com/watch?v=7Xa3ieUTEo8", 
+            "user": "18",
+            "link": "https://www.youtube.com/watch?v=7Xa3ieUTEo8",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Sans granie",
-            "link": "https://youtu.be/SLeKJlrTHGM", 
+            "user": "44",
+            "link": "https://youtu.be/SLeKJlrTHGM",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://youtu.be/Id_y951U3vs", 
+            "user": "1",
+            "link": "https://youtu.be/Id_y951U3vs",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=linX-put_wE", 
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=linX-put_wE",
             "percent": 100,
             "hz": 60
         },
-         {
-            "user": "Reft",
-            "link": "https://www.youtube.com/watch?v=7TrWwDgnhEU", 
+        {
+            "user": "22",
+            "link": "https://www.youtube.com/watch?v=7TrWwDgnhEU",
             "percent": 100,
             "hz": 240
-         },
-         {
-            "user": "Exoticbrevv",
-            "link": "https://www.youtube.com/watch?v=7R3Dy7XzmJU", 
+        },
+        {
+            "user": "53",
+            "link": "https://www.youtube.com/watch?v=7R3Dy7XzmJU",
             "percent": 100,
             "hz": 60
-         },
+        },
         {
-            "user": "Chocapic",
-            "link": "https://www.youtube.com/watch?v=iC8E1lFTZ34", 
+            "user": "7",
+            "link": "https://www.youtube.com/watch?v=iC8E1lFTZ34",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "[PRIMUS] ciganyrece",
-            "link": "https://www.youtube.com/watch?v=GSvJAgToVgU", 
+            "user": "6",
+            "link": "https://www.youtube.com/watch?v=GSvJAgToVgU",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Msidhsj",
-            "link": "https://www.youtube.com/watch?v=_r3mQD-O1Xg", 
+            "user": "4",
+            "link": "https://www.youtube.com/watch?v=_r3mQD-O1Xg",
             "percent": 100,
             "hz": 144
         }
