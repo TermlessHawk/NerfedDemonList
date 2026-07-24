@@ -1,52 +1,52 @@
 {
-    "id": 143832730, 
+    "id": 143832730,
     "name": "The Nerfmare",
     "author": "TemperowkaHonor",
-    "creators": ["Oscarelo"],
-    "verifier": "Oscarelo",
-    "verification": "https://www.youtube.com/watch?v=wxge0NcEFNY", 
+    "creators": ["48"],
+    "verifier": "48",
+    "verification": "https://www.youtube.com/watch?v=wxge0NcEFNY",
     "percentToQualify": 86,
     "password": "Overall",
     "records": [
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://www.youtube.com/watch?v=ebOL42yr2s4", 
+            "user": "1",
+            "link": "https://www.youtube.com/watch?v=ebOL42yr2s4",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "Yoink",
-            "link": "https://www.youtube.com/watch?v=88RimI3Yk7c", 
+            "user": "3",
+            "link": "https://www.youtube.com/watch?v=88RimI3Yk7c",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "eto",
-            "link": "https://youtu.be/WpzNwzZlxYc", 
+            "user": "19",
+            "link": "https://youtu.be/WpzNwzZlxYc",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "Msidhsj",
-            "link": "https://www.youtube.com/watch?v=Uy-GRXIh9Dg", 
+            "user": "4",
+            "link": "https://www.youtube.com/watch?v=Uy-GRXIh9Dg",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "Wasky",
-            "link": "https://youtu.be/FbRMOr7IHSA", 
+            "user": "77",
+            "link": "https://youtu.be/FbRMOr7IHSA",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "[PRIMUS] ciganyrece",
-            "link": "https://www.youtube.com/watch?v=l2jpS6poC6o", 
+            "user": "6",
+            "link": "https://www.youtube.com/watch?v=l2jpS6poC6o",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "[DFD] Ybm54",
-            "link": "https://www.youtube.com/watch?v=SKWSSq4z9Ag", 
+            "user": "25",
+            "link": "https://www.youtube.com/watch?v=SKWSSq4z9Ag",
             "percent": 100,
             "hz": 60
         }
