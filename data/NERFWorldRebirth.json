@@ -1,40 +1,40 @@
 {
-    "id": 143623423, 
+    "id": 143623423,
     "name": "NERF World Rebirth",
     "author": "Reft014",
-    "creators": ["Reft"],
-    "verifier": "Reft",
-    "verification": "https://www.youtube.com/watch?v=si1V-ojXEJM", 
+    "creators": ["22"],
+    "verifier": "22",
+    "verification": "https://www.youtube.com/watch?v=si1V-ojXEJM",
     "percentToQualify": 77,
     "password": "Ship & Chokepoints",
     "records": [
-         {
-            "user": "adrianroben",
-            "link": "https://www.youtube.com/watch?v=cZejauoLgKI", 
-            "percent": 100,
-            "hz": 144
-         },
-         {
-            "user": "[TOST] Tosterr",
-            "link": "https://www.youtube.com/watch?v=cZejauoLgKI", 
-            "percent": 100,
-            "hz": 144
-         }, 
         {
-            "user": "boshy",
-            "link": "https://www.youtube.com/watch?v=KWxnqysOSZw", 
+            "user": "10",
+            "link": "https://www.youtube.com/watch?v=cZejauoLgKI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "1",
+            "link": "https://www.youtube.com/watch?v=cZejauoLgKI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "36",
+            "link": "https://www.youtube.com/watch?v=KWxnqysOSZw",
             "percent": 100,
             "hz": 165
         },
         {
-            "user": "Msidhsj",
-            "link": "https://www.youtube.com/watch?v=j3-c9IolTik", 
+            "user": "4",
+            "link": "https://www.youtube.com/watch?v=j3-c9IolTik",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[DFD] Ybm54",
-            "link": "https://www.youtube.com/watch?v=SKWSSq4z9Ag", 
+            "user": "25",
+            "link": "https://www.youtube.com/watch?v=SKWSSq4z9Ag",
             "percent": 100,
             "hz": 60
         }
