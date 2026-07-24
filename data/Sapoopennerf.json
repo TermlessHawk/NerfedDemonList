@@ -2,69 +2,69 @@
     "id": 144085260,
     "name": "Sapoopen nerfell",
     "author": "TosterrGMD",
-    "creators": ["SZopsaRX"],
-    "verifier": "SZopsaRX",
+    "creators": ["35"],
+    "verifier": "35",
     "verification": "https://youtu.be/8hi_ei1EdRU?is=BVl4XhXHw_RMDZSI",
     "percentToQualify": 75,
     "password": "Awkward Gameplay & Wave",
     "records": [
         {
-            "user": "[TORT] Status",
-            "link": "https://www.youtube.com/watch?v=nCm4_mAWM0U", 
+            "user": "11",
+            "link": "https://www.youtube.com/watch?v=nCm4_mAWM0U",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=ie-pz4CfD4Q", 
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=ie-pz4CfD4Q",
             "percent": 100,
             "hz": 75
-         },
-         {
-            "user": "[CNGR] zzz",
-            "link": "https://youtu.be/aaCfhgMkz34", 
+        },
+        {
+            "user": "13",
+            "link": "https://youtu.be/aaCfhgMkz34",
             "percent": 100,
             "hz": 240
-         },
+        },
         {
-            "user": "DefNotDaniel",
-            "link": "https://youtu.be/l_WqaviUTqE", 
+            "user": "9",
+            "link": "https://youtu.be/l_WqaviUTqE",
             "percent": 100,
             "hz": 165
-         },
+        },
         {
-            "user": "Yoink",
-            "link": "https://www.youtube.com/watch?v=1WJoVJ3qedY", 
+            "user": "3",
+            "link": "https://www.youtube.com/watch?v=1WJoVJ3qedY",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "[FEMB] Aeris",
-            "link": "https://youtu.be/YUBzzc4CaDw", 
+            "user": "29",
+            "link": "https://youtu.be/YUBzzc4CaDw",
             "percent": 100,
             "hz": 120
         },
         {
-            "user": "LvnChaserr",
-            "link": "https://www.youtube.com/watch?v=Fsq7IUOPOck", 
+            "user": "37",
+            "link": "https://www.youtube.com/watch?v=Fsq7IUOPOck",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "Chocapic",
-            "link": "https://youtu.be/SF5u86KFWg0", 
+            "user": "7",
+            "link": "https://youtu.be/SF5u86KFWg0",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "[TOST] Tosterr",
-            "link": "https://youtu.be/_SL8CPWj7nk", 
+            "user": "1",
+            "link": "https://youtu.be/_SL8CPWj7nk",
             "percent": 100,
             "hz": 144
-         },
+        },
         {
-            "user": "orbPT",
-            "link": "https://www.youtube.com/watch?v=aDKuRcnjyt4", 
+            "user": "27",
+            "link": "https://www.youtube.com/watch?v=aDKuRcnjyt4",
             "percent": 100,
             "hz": 240
         }
