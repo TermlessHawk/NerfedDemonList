@@ -2,38 +2,38 @@
     "id": 141479738, 
     "name": "AcroNERFolis",
     "author": "TermlessHawk",
-    "creators": ["1"],
-    "verifier": "1",
+    "creators": ["[TOST] TermlessHawk"],
+    "verifier": "[TOST] TermlessHawk",
     "verification":  "https://youtu.be/WMTZUx44NmE", 
     "percentToQualify": 70,
     "password": "Chokepoints & Timings",
     "records": [
             {
-            "user": "3",
+            "user": "[FEMB] elyas",
             "link": "https://youtu.be/GBYb7QiejcQ", 
             "percent": 100,
             "hz": 60
            },
         {
-            "user": "4",
+            "user": "fxshgd",
             "link": "https://youtu.be/vj0YAI4ZpvA", 
             "percent": 100,
             "hz": 240
            },
         {
-            "user": "5",
+            "user": "[FEMB] Aeris",
             "link": "https://www.youtube.com/watch?v=-oVlbeEcUbw", 
             "percent": 100,
             "hz": 120
         },
         {
-            "user": "2",
+            "user": "[TOST] Tosterr",
             "link": "https://youtu.be/Rsn5lOMv7Jk", 
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "6",
+            "user": "AJD",
             "link": "https://www.youtube.com/watch?v=Pg4vygpfo8E", 
             "percent": 100,
             "hz": 75
