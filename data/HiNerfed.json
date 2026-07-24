@@ -3,86 +3,86 @@
     "name": "Hi Nerfed",
     "author": "Flub",
     "creators": ["Flub"],
-    "verifier": "[TOST] Tosterr",
+    "verifier": "1",
     "verification": "https://youtu.be/P91nWjriy0k",
     "percentToQualify": 85,
     "password": "Nerve Control",
     "records": [
         {
-            "user": "Msidhsj",
-            "link": "https://youtu.be/sADlCjNgiH8?si=ZCd8A-TrmRwjwsDM", 
+            "user": "4",
+            "link": "https://youtu.be/sADlCjNgiH8?si=ZCd8A-TrmRwjwsDM",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "[TOST] TermlessHawk",
-            "link": "https://youtu.be/ejgGUrTgs2o", 
+            "user": "5",
+            "link": "https://youtu.be/ejgGUrTgs2o",
             "percent": 100,
             "hz": 120
-        }, 
-        {
-            "user": "PGK_Panoz",
-            "link": "https://youtu.be/A3h8vRTRxV4", 
-            "percent": 100,
-            "hz": 165
-         },
-        {
-            "user": "ExsChestnut",
-            "link": "https://www.youtube.com/watch?v=5ET5SJwd4e4", 
-            "percent": 100,
-            "hz": 60
         },
         {
-            "user": "Yoink",
-            "link": "https://www.youtube.com/watch?v=G9REeRWERBE", 
-            "percent": 100,
-            "hz": 60
-        }, 
-        {
-            "user": "Bill13high",
-            "link": "https://youtu.be/ugoDm7NIpfc?feature=shared", 
-            "percent": 100,
-            "hz": 180
-        },
-        {
-            "user": "DefNotDaniel",
-            "link": "https://www.youtube.com/watch?v=JUft995EYIs", 
+            "user": "24",
+            "link": "https://youtu.be/A3h8vRTRxV4",
             "percent": 100,
             "hz": 165
         },
         {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=jwpsoWq05eM", 
+            "user": "18",
+            "link": "https://www.youtube.com/watch?v=5ET5SJwd4e4",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Chocapic",
-            "link": "https://www.youtube.com/watch?v=f3yLZ4CRVo0", 
+            "user": "3",
+            "link": "https://www.youtube.com/watch?v=G9REeRWERBE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "15",
+            "link": "https://youtu.be/ugoDm7NIpfc?feature=shared",
             "percent": 100,
             "hz": 180
         },
         {
-            "user": "adrianroben",
-            "link": "https://youtu.be/BHTpvyy3tNw", 
+            "user": "9",
+            "link": "https://www.youtube.com/watch?v=JUft995EYIs",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=jwpsoWq05eM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "7",
+            "link": "https://www.youtube.com/watch?v=f3yLZ4CRVo0",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "10",
+            "link": "https://youtu.be/BHTpvyy3tNw",
             "percent": 100,
             "hz": 144
-        }, 
+        },
         {
-            "user": "ItsSeaGD",
-            "link": "https://www.youtube.com/watch?v=tzpd-YiBFRg", 
+            "user": "52",
+            "link": "https://www.youtube.com/watch?v=tzpd-YiBFRg",
             "percent": 100,
             "hz": 120
-        }, 
+        },
         {
-            "user": "gekkeLucaaa",
-            "link": "www.youtube.com/watch?v=BR9ZTx1Qbzgfd", 
+            "user": "42",
+            "link": "www.youtube.com/watch?v=BR9ZTx1Qbzgfd",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "[PRIMUS] ciganyrece",
-            "link": "https://youtu.be/tFVNcT2-EJw", 
+            "user": "6",
+            "link": "https://youtu.be/tFVNcT2-EJw",
             "percent": 100,
             "hz": 240
         }
