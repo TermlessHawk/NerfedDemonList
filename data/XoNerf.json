@@ -1,16 +1,16 @@
 {
-    "id": 142472083, 
+    "id": 142472083,
     "name": "Xo Nerf",
     "author": "janeXz602",
     "creators": ["janeXz602"],
-    "verifier": "[TOST] Tosterr",
-    "verification":  "https://youtu.be/BSEeVCZHLB4", 
+    "verifier": "1",
+    "verification": "https://youtu.be/BSEeVCZHLB4",
     "percentToQualify": 72,
     "password": "Overall & Chokepoints",
     "records": [
         {
-            "user": "Yoink",
-            "link": "https://www.youtube.com/watch?v=wFWShm0iQFE", 
+            "user": "3",
+            "link": "https://www.youtube.com/watch?v=wFWShm0iQFE",
             "percent": 100,
             "hz": 60
         }
