@@ -2,27 +2,27 @@
     "id": 141007422,
     "name": "Sodalite",
     "author": "TosterrGMD",
-    "creators": ["[TOST] Tosterr"],
-    "verifier": "[TOST] Tosterr",
+    "creators": ["1"],
+    "verifier": "1",
     "verification": "https://www.youtube.com/watch?v=LkI2l2yMT0Y",
     "percentToQualify": 63,
     "password": "Overall",
     "records": [
-           {
-            "user": "[FEMB] elyas",
-            "link": "https://www.youtube.com/watch?v=l7-MINuKFk0", 
+        {
+            "user": "2",
+            "link": "https://www.youtube.com/watch?v=l7-MINuKFk0",
             "percent": 100,
             "hz": 60
-           },
+        },
         {
-            "user": "SantasBreakdance",
-            "link": "https://youtu.be/K01B4PujBZk", 
+            "user": "33",
+            "link": "https://youtu.be/K01B4PujBZk",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "JustPeezy",
-            "link": "https://www.youtube.com/watch?v=Kweo2P8s7as", 
+            "user": "28",
+            "link": "https://www.youtube.com/watch?v=Kweo2P8s7as",
             "percent": 100,
             "hz": 165
         }
