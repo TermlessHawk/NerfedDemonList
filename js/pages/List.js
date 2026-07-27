@@ -291,7 +291,7 @@ export default {
                     </p>
 
                     <p>
-                        A Cheat Indicator is required.
+                        An End Screen Cheat Indicator is required.
                     </p>
                         
                     <p>
