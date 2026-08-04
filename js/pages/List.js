@@ -271,7 +271,7 @@ export default {
 
 
                     <p>
-                        Achieved the record without using hacks(including physics bypass, however FPS bypass is allowed).
+                        Achieved the record without using hacks(list of allowed mods is the same as on Pointercrate).
                     </p>
 
                     <p>
