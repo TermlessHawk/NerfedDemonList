@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=KSGFWrPZAcU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "83",
+            "link": "https://www.youtube.com/watch?v=UA5D_ZKgZaI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
